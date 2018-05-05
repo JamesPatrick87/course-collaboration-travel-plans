@@ -51,10 +51,22 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
-#belize {
+#ohio {
     background-color: #4dd0e1;
 }
 
-#barcelona {
+#michigan {
     background-color: #800000;
+}
+
+#indiana {
+    background-color: rgb(66, 131, 125);
+}
+
+#iowa {
+    background-color: royalblue;
+}
+
+#texas {
+    background-color: rgb(78, 21, 21);
 }
